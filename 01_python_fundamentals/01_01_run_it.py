@@ -14,4 +14,18 @@
 	- Calculate how many seconds are in a year.
 
 '''
-print("hello world!")
+print("hello world")
+
+''' 
+If printing out a variable that is not defined, it will come up with error syntax 
+    It is helpful to understand why the error occured, in this case hello is not defined
+'''
+
+print(60*60*24*365)
+
+
+
+
+
+
+
